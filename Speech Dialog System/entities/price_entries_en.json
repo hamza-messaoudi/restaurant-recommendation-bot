@@ -1,0 +1,32 @@
+[
+  {
+    "value": "fancy",
+    "synonyms": [
+      "expensive",
+      "fancy",
+      "pricey"
+    ]
+  },
+  {
+    "value": "more affordable",
+    "synonyms": [
+      "cheap",
+      "affordable",
+      "budget-friendly"
+    ]
+  },
+  {
+    "value": "normal prized",
+    "synonyms": [
+      "normal",
+      "mid-range",
+      "regular"
+    ]
+  },
+  {
+    "value": "pub like",
+    "synonyms": [
+      "pub like"
+    ]
+  }
+]

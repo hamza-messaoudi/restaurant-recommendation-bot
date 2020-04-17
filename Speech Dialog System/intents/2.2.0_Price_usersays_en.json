@@ -1,0 +1,219 @@
+[
+  {
+    "id": "492e8b7a-d7ed-4fea-a37b-7c69e2336049",
+    "data": [
+      {
+        "text": "not so far from the ",
+        "userDefined": false
+      },
+      {
+        "text": "TU Campus",
+        "alias": "address",
+        "meta": "@sys.address",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d322ba45-2ed8-4978-b29a-05be82db9841",
+    "data": [
+      {
+        "text": "anywhere near ",
+        "userDefined": false
+      },
+      {
+        "text": "Zoologischer Garten",
+        "alias": "address",
+        "meta": "@sys.address",
+        "userDefined": true
+      },
+      {
+        "text": " would be great",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "853945de-2556-4620-a71d-e9fab3f7623d",
+    "data": [
+      {
+        "text": "somewhere in ",
+        "userDefined": false
+      },
+      {
+        "text": "Charlottenburg",
+        "alias": "address",
+        "meta": "@sys.address",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5809f4d1-03af-4e2a-beec-4c94ae07b851",
+    "data": [
+      {
+        "text": "close to ",
+        "userDefined": false
+      },
+      {
+        "text": "TU Berlin",
+        "alias": "address",
+        "meta": "@sys.address",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fab61c58-d03f-452a-9c45-2ab6560383f4",
+    "data": [
+      {
+        "text": "Kurfürstendamm, Berlin",
+        "alias": "address",
+        "meta": "@sys.address",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a6377e38-39da-4ddb-b091-11a86a8d06bf",
+    "data": [
+      {
+        "text": "Kurfürstendamm",
+        "alias": "address",
+        "meta": "@sys.address",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2276344e-f144-4487-a62c-d67df4517015",
+    "data": [
+      {
+        "text": "Schlossallee 1",
+        "alias": "address",
+        "meta": "@sys.address",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8834db4d-9f9b-4a20-8913-ad9a21881fb0",
+    "data": [
+      {
+        "text": "please find a please close to ",
+        "userDefined": false
+      },
+      {
+        "text": "Schönauer Allee",
+        "alias": "address",
+        "meta": "@sys.address",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b1a3e78b-1dc6-4905-a3fb-8fd1b2b338e2",
+    "data": [
+      {
+        "text": "Please find a place near ",
+        "userDefined": false
+      },
+      {
+        "text": "Schönauer Allee 43",
+        "alias": "address",
+        "meta": "@sys.address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "758f5988-c24e-44a1-aae0-5fd0017dd6ff",
+    "data": [
+      {
+        "text": "Please find a ",
+        "userDefined": false
+      },
+      {
+        "text": "restaurant",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " close to ",
+        "userDefined": false
+      },
+      {
+        "text": "10559 Berlin",
+        "alias": "address",
+        "meta": "@sys.address",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e5d1a13e-a142-4b98-9455-3767a5fbaef6",
+    "data": [
+      {
+        "text": "i want to eat in ",
+        "userDefined": false
+      },
+      {
+        "text": "Berlin Kreuzberg",
+        "alias": "address",
+        "meta": "@sys.address",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "09d29a77-e3ee-4acb-a9ac-be231a828a42",
+    "data": [
+      {
+        "text": "I live in the ",
+        "userDefined": false
+      },
+      {
+        "text": "Wilsnacker Straße Berlin",
+        "alias": "address",
+        "meta": "@sys.address",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

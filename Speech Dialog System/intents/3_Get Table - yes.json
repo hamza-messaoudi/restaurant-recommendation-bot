@@ -1,0 +1,36 @@
+{
+  "id": "9d6fb6d2-9842-42bc-aa97-fd198e4b2103",
+  "parentId": "5edb66cd-7b93-4784-9c1d-fa234188e89b",
+  "rootParentId": "5edb66cd-7b93-4784-9c1d-fa234188e89b",
+  "name": "3_Get Table - yes",
+  "auto": true,
+  "contexts": [
+    "3_GetTable-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "3_GetTable.3_GetTable-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Reservation confirmed! Enjoy your meal and see you next time."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

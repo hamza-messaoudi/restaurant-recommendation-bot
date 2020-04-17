@@ -1,0 +1,42 @@
+{
+  "id": "488a54aa-7741-4b9b-aef1-00039bcd98fb",
+  "parentId": "90d7fc59-2209-4577-bd1e-348b1b10b219",
+  "rootParentId": "360be514-8df4-443e-83c1-578838dc57ec",
+  "name": "2_Reservation - no - yes",
+  "auto": true,
+  "contexts": [
+    "2_Reservation-no-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "2_Reservation.2_Reservation-no.2_Reservation-no-yes",
+      "affectedContexts": [
+        {
+          "name": "reservation",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Okay then, what name should the reservation be under?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

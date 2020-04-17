@@ -1,0 +1,43 @@
+{
+  "id": "3732ecf1-69cd-4337-aeca-598cacf857bf",
+  "parentId": "760adef1-e5c5-4b1e-a8ab-d7cde23d858b",
+  "rootParentId": "760adef1-e5c5-4b1e-a8ab-d7cde23d858b",
+  "name": "2.1_Location - fallback",
+  "auto": false,
+  "contexts": [
+    "21_Location-followup",
+    "location"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "21_Location.21_Location-fallback",
+      "affectedContexts": [
+        {
+          "name": "location",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "That\u0027s not a valid address. Let\u0027s try that again!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

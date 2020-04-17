@@ -1,0 +1,43 @@
+{
+  "id": "0528eab6-2b89-4a70-a8e0-313159b04296",
+  "parentId": "760adef1-e5c5-4b1e-a8ab-d7cde23d858b",
+  "rootParentId": "760adef1-e5c5-4b1e-a8ab-d7cde23d858b",
+  "name": "2.1_Location - no",
+  "auto": true,
+  "contexts": [
+    "21_Location-followup",
+    "location"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "21_Location.21_Location-no",
+      "affectedContexts": [
+        {
+          "name": "location",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "I really need an address  to help you. Please give me your address or the general area you\u0027re interested in eating in."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "22fba8eb-e08d-4188-9417-8fbd1bc2a60b",
+  "parentId": "4bbb2aa2-fef0-44d7-a95d-e96b289b70a3",
+  "rootParentId": "4bbb2aa2-fef0-44d7-a95d-e96b289b70a3",
+  "name": "0_Welcome Intent - fallback",
+  "auto": false,
+  "contexts": [
+    "foodType",
+    "0_WelcomeIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "0_WelcomeIntent.0_WelcomeIntent-fallback",
+      "affectedContexts": [
+        {
+          "name": "foodType",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "I\u0027m sorry, I couldn\u0027t catch that. Please specify what you want to eat."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,52 @@
+{
+  "id": "7b9cd5b0-3c43-489e-bde8-7e23d88a1eb0",
+  "name": "2.3.0_Review",
+  "auto": true,
+  "contexts": [
+    "price"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "230_Review-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "d59c0d28-03e1-4abe-accb-49a8a8ec4a02",
+          "required": false,
+          "dataType": "@price",
+          "name": "price",
+          "value": "$price",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Great! Would you like to hear a review?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

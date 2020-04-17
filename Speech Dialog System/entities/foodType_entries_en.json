@@ -1,0 +1,104 @@
+[
+  {
+    "value": "Italian",
+    "synonyms": [
+      "Italian",
+      "Pizza",
+      "Pasta",
+      "spaghetti",
+      "Tagliatelle",
+      "Bolognese",
+      "Lasagna",
+      "Rigatoni",
+      "Ravioli",
+      "tortellini",
+      "Focaccia",
+      "digestivo"
+    ]
+  },
+  {
+    "value": "Greek",
+    "synonyms": [
+      "Greek",
+      "Gyros"
+    ]
+  },
+  {
+    "value": "Chinese",
+    "synonyms": [
+      "Chinese",
+      "Dumplings",
+      "Fried Rice",
+      "Kung Pao Chicken",
+      "Rice",
+      "Noodles"
+    ]
+  },
+  {
+    "value": "Japanese",
+    "synonyms": [
+      "Japanese",
+      "Sushi",
+      "Ramen",
+      "Sashimi",
+      "Kare raisu",
+      "Okonomiyaki",
+      "Shabu Shabu",
+      "misoshiru",
+      "Kakigori"
+    ]
+  },
+  {
+    "value": "Turkish",
+    "synonyms": [
+      "Turkish",
+      "Döner",
+      "Kebab"
+    ]
+  },
+  {
+    "value": "American",
+    "synonyms": [
+      "American",
+      "Steak",
+      "Burger",
+      "Chips",
+      "Fries",
+      "Cole Slaw",
+      "Beer"
+    ]
+  },
+  {
+    "value": "Indian",
+    "synonyms": [
+      "Indian",
+      "Chicken Satay",
+      "Chicken Curry",
+      "Curry"
+    ]
+  },
+  {
+    "value": "Philippino",
+    "synonyms": [
+      "Philippino",
+      "Adobo"
+    ]
+  },
+  {
+    "value": "Swedish",
+    "synonyms": [
+      "Swedish",
+      "Köttbullar"
+    ]
+  },
+  {
+    "value": "Mexican",
+    "synonyms": [
+      "Mexican",
+      "tacos",
+      "fajitas",
+      "nachos",
+      "tortilla"
+    ]
+  }
+]

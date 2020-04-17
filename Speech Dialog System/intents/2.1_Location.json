@@ -1,0 +1,70 @@
+{
+  "id": "760adef1-e5c5-4b1e-a8ab-d7cde23d858b",
+  "name": "2.1_Location",
+  "auto": true,
+  "contexts": [
+    "foodType"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "location",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "21_Location-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "e447878a-ddd1-42eb-acdb-055cda783c8b",
+          "required": true,
+          "dataType": "@foodType",
+          "name": "foodType",
+          "value": "$foodType",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please specify the food you would like to eat?"
+            },
+            {
+              "lang": "en",
+              "value": "I am sorry, what do you want to eat?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "There are many good $foodType restaurants in Berlin. Please give me your address, so I can find the ones closest to you.",
+            "I\u0027ve got some nice $foodType restaurants for you. I want to find the ones closest to you, so please give me your address."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 750000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

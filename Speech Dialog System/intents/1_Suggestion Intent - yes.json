@@ -1,0 +1,42 @@
+{
+  "id": "14e7ba13-9177-46fc-9f4c-515f092f1df4",
+  "parentId": "b1ef14ec-a086-481b-af35-dd83b20b0f2a",
+  "rootParentId": "b1ef14ec-a086-481b-af35-dd83b20b0f2a",
+  "name": "1_Suggestion Intent - yes",
+  "auto": true,
+  "contexts": [
+    "1_SuggestionIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "1_SuggestionIntent.1_SuggestionIntent-yes",
+      "affectedContexts": [
+        {
+          "name": "location",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Good choice! Please give me your address, so I can find some restaurants near you."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

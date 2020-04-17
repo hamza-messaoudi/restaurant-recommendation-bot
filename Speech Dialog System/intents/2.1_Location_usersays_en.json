@@ -1,0 +1,164 @@
+[
+  {
+    "id": "72695bd1-ecb6-437d-80ac-f23ffed4aca5",
+    "data": [
+      {
+        "text": "i just need some good ",
+        "userDefined": false
+      },
+      {
+        "text": "fries",
+        "alias": "foodType",
+        "meta": "@foodType",
+        "userDefined": false
+      },
+      {
+        "text": " right now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a53c55ec-bbf4-402d-a221-fe45295fd1ec",
+    "data": [
+      {
+        "text": "i feel like ",
+        "userDefined": false
+      },
+      {
+        "text": "pasta",
+        "alias": "foodType",
+        "meta": "@foodType",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "31c6ced5-ea28-4d88-acb6-15526f8aab63",
+    "data": [
+      {
+        "text": "sushi",
+        "alias": "foodType",
+        "meta": "@foodType",
+        "userDefined": false
+      },
+      {
+        "text": " is my favorite",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "70740cf4-aa40-46b8-8525-73cadc849410",
+    "data": [
+      {
+        "text": "I only eat ",
+        "userDefined": false
+      },
+      {
+        "text": "tacos",
+        "alias": "foodType",
+        "meta": "@foodType",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4477df79-fe4b-4113-bef0-f493551b1f8e",
+    "data": [
+      {
+        "text": "I would like an ",
+        "userDefined": false
+      },
+      {
+        "text": "italian",
+        "alias": "foodType",
+        "meta": "@foodType",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "restaurant",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1c545c7f-5c52-4347-8040-b682cbcb248f",
+    "data": [
+      {
+        "text": "give me ",
+        "userDefined": false
+      },
+      {
+        "text": "burger",
+        "alias": "foodType",
+        "meta": "@foodType",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "4f8f07e2-e2ab-49cc-8260-c7b9cc9db240",
+    "data": [
+      {
+        "text": "pizza",
+        "alias": "foodType",
+        "meta": "@foodType",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9c336e72-6080-4ddc-beff-12e9c23808a4",
+    "data": [
+      {
+        "text": "i want ",
+        "userDefined": false
+      },
+      {
+        "text": "dumplings",
+        "alias": "foodType",
+        "meta": "@foodType",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

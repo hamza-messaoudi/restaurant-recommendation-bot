@@ -1,0 +1,47 @@
+{
+  "id": "360be514-8df4-443e-83c1-578838dc57ec",
+  "name": "2.3_Reservation",
+  "auto": true,
+  "contexts": [
+    "review"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "reservation",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "2_Reservation-followup",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Do you want me to book a table for you?",
+            "Would you like to book a table here ?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

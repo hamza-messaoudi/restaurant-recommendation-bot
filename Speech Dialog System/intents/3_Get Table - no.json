@@ -1,0 +1,42 @@
+{
+  "id": "3cfba771-41bd-47d9-b19e-5bc6bc0ddb8f",
+  "parentId": "5edb66cd-7b93-4784-9c1d-fa234188e89b",
+  "rootParentId": "5edb66cd-7b93-4784-9c1d-fa234188e89b",
+  "name": "3_Get Table - no",
+  "auto": true,
+  "contexts": [
+    "3_GetTable-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "3_GetTable.3_GetTable-no",
+      "affectedContexts": [
+        {
+          "name": "reservation",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "I am sorry for that, could you please repeat your reservation details?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

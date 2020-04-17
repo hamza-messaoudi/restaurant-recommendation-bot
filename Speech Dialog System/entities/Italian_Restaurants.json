@@ -1,0 +1,9 @@
+{
+  "id": "9c8c3c53-5978-44c3-b748-39de9710f138",
+  "name": "Italian_Restaurants",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": true
+}

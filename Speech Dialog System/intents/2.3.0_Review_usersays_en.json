@@ -1,0 +1,243 @@
+[
+  {
+    "id": "b048b4c5-626b-4f30-ac4d-87dc236a867d",
+    "data": [
+      {
+        "text": "give me your ",
+        "userDefined": false
+      },
+      {
+        "text": "cheapest",
+        "alias": "price",
+        "meta": "@price",
+        "userDefined": true
+      },
+      {
+        "text": " option",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "85b3ff64-837a-4456-8584-bbcd6fb3199b",
+    "data": [
+      {
+        "text": "I would like a ",
+        "userDefined": false
+      },
+      {
+        "text": "mid-range",
+        "alias": "price",
+        "meta": "@price",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "restaurant",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5a5d1e40-d92a-41a9-92af-2919fc22faa0",
+    "data": [
+      {
+        "text": "I\u0027m feeling ",
+        "userDefined": false
+      },
+      {
+        "text": "fancy",
+        "alias": "price",
+        "meta": "@price",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tonight",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "083fc640-a658-4531-9e56-942b15925b10",
+    "data": [
+      {
+        "text": "I want something ",
+        "userDefined": false
+      },
+      {
+        "text": "cheap",
+        "alias": "price",
+        "meta": "@price",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f94cf344-f361-4563-9262-fb68cb6274a8",
+    "data": [
+      {
+        "text": "I\u0027m looking for a ",
+        "userDefined": false
+      },
+      {
+        "text": "mid-range",
+        "alias": "price",
+        "meta": "@price",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "restaurant",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9b82cf35-1ed8-46b6-9801-3deae70c0ef8",
+    "data": [
+      {
+        "text": "I would like a ",
+        "userDefined": false
+      },
+      {
+        "text": "budget-friendly",
+        "alias": "price",
+        "meta": "@price",
+        "userDefined": false
+      },
+      {
+        "text": " option",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3f51c93c-8550-4a4c-9626-9f23ea35fd9d",
+    "data": [
+      {
+        "text": "I\u0027m planning a ",
+        "userDefined": false
+      },
+      {
+        "text": "fancy",
+        "alias": "price",
+        "meta": "@price",
+        "userDefined": false
+      },
+      {
+        "text": " dinner",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9114fbfd-9500-4cfb-b8f3-22edc67024f3",
+    "data": [
+      {
+        "text": "I like the more ",
+        "userDefined": false
+      },
+      {
+        "text": "affordable",
+        "alias": "price",
+        "meta": "@price",
+        "userDefined": true
+      },
+      {
+        "text": " option",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1fa01cd6-7b6b-4c44-9be7-8325e5828b26",
+    "data": [
+      {
+        "text": "fancy",
+        "alias": "price",
+        "meta": "@price",
+        "userDefined": false
+      },
+      {
+        "text": " dinner",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dd0dd7fe-9aeb-49b7-b7d7-eb1fdef33fab",
+    "data": [
+      {
+        "text": "I would like the ",
+        "userDefined": false
+      },
+      {
+        "text": "expensive",
+        "alias": "price",
+        "meta": "@price",
+        "userDefined": true
+      },
+      {
+        "text": " option",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "623e881b-39bc-422e-a0f2-312748c8f0e2",
+    "data": [
+      {
+        "text": "cheap",
+        "alias": "price",
+        "meta": "@price",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,66 @@
+{
+  "id": "37b4f81a-b597-4dc6-97cd-181adf37b60e",
+  "name": "2.2.0_Price",
+  "auto": true,
+  "contexts": [
+    "location"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "price",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "22_Price-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "0fa4adef-018c-4a41-b6d6-ea8f2c81758c",
+          "required": true,
+          "dataType": "@sys.address",
+          "name": "address",
+          "value": "$address",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please give me your address or the general area you\u0027d like to eat in."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Good. I found some restaurants that are close to $address. Theres one which is a bit fancy, a more affordable one and a mid-range one. Which one would you prefer?",
+            "Got it. I looked for nice restaurants near to $address and found a budget-friendly one, a mid-range one and a more expensive restaurant. Which option would you prefer?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 1000000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

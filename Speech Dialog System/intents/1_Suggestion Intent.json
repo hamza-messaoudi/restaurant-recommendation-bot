@@ -1,0 +1,43 @@
+{
+  "id": "b1ef14ec-a086-481b-af35-dd83b20b0f2a",
+  "name": "1_Suggestion Intent",
+  "auto": true,
+  "contexts": [
+    "foodType"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "1_SuggestionIntent-followup",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "No worries. I will give you some suggestions. What about Italian food? Pizza is always good right?",
+            "Okay. I will give you some suggestions. Do you like Chinese food? I love Dumplings!",
+            "Okay. Maybe I can guess what you like. Burger?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

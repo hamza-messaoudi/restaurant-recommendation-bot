@@ -1,0 +1,46 @@
+{
+  "id": "b3c5bfd4-f333-43ff-9682-11a2945619c5",
+  "parentId": "ed83151d-468e-494d-8fb5-f9c5c76215be",
+  "rootParentId": "7b9cd5b0-3c43-489e-bde8-7e23d88a1eb0",
+  "name": "2.3.0_Review - yes - no",
+  "auto": true,
+  "contexts": [
+    "review",
+    "230_Review-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "230_Review.230_Review-yes.230_Review-yes-no",
+      "affectedContexts": [
+        {
+          "name": "230_Review-followup",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Ok, I found you a different restaurant. Would you like to hear a review for that?",
+            "Alright, here\u0027s another restaurant. Would you like to hear a review?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

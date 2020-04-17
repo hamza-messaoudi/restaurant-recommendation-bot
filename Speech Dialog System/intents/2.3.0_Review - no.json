@@ -1,0 +1,47 @@
+{
+  "id": "6c341771-94f4-4834-9127-1b27fe19ee58",
+  "parentId": "7b9cd5b0-3c43-489e-bde8-7e23d88a1eb0",
+  "rootParentId": "7b9cd5b0-3c43-489e-bde8-7e23d88a1eb0",
+  "name": "2.3.0_Review - no",
+  "auto": true,
+  "contexts": [
+    "230_Review-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "230_Review.230_Review-no",
+      "affectedContexts": [
+        {
+          "name": "reservation",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "2_Reservation-followup",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Do you want to book a table?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

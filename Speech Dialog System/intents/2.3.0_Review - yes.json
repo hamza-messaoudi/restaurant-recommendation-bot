@@ -1,0 +1,60 @@
+{
+  "id": "ed83151d-468e-494d-8fb5-f9c5c76215be",
+  "parentId": "7b9cd5b0-3c43-489e-bde8-7e23d88a1eb0",
+  "rootParentId": "7b9cd5b0-3c43-489e-bde8-7e23d88a1eb0",
+  "name": "2.3.0_Review - yes",
+  "auto": true,
+  "contexts": [
+    "230_Review-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "230_Review.230_Review-yes",
+      "affectedContexts": [
+        {
+          "name": "review",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "230_Review-yes-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "frankie said  \"Where food was surprisingly solid and the beetroot lemonade as fresh as it gets\"\nDoes this sound good?",
+            "jimmy said \"Smoked brioche cinnamon French toast with chocolate sorbet?! SHUT UP AND TAKE MY MONEY\"\nDoes this sound good?",
+            "Pete Wells said “Slowly, gradually, with great mental resistance but still inexorably, it dawned on me that I had paid 98 euros for a meal with almost no flavor. It was dry, too.”\nDoes this sound good?",
+            "rebecca said \" MAD DELICIOUS. Ate all three dishes on my own.\"\nDoes this sound good?",
+            "wangyang7020 said \"This place has shaped up tremendously. Well done. Not necessarily worth an excursion. But a local oasis in a lovely venue\"\nDoes this sound good?",
+            "franziska77 said \" what’s wrong with this place ? by the way why are all the staff always so damn FRIENDLY? Don’t they know they live in Berlin\"\nDoes this sound good?",
+            "mattzimmermann said \"This lingers somewhere between “very good” and “not sure I need to eat it soon anytime again”. Very delicious at times, at other times overpowering and intensely sweet. Worth a try.\"\nDoes this sound good?",
+            "Tom Sietsema said \"You’d better have something in the fridge at home.\"\nDoes this sound good?",
+            "badassfoodstories said \"The couple operating this joint are definitely the cutest and the place itself is a brilliant Wes Anderson-ish time machine from the 90’s\"\nDoes this sound good?",
+            "ezgipolat said \"Where no spreadable desire goes unanswered. A few strange details in this place. But generally solid value for money at 15€ a head. \"\nDoes this sound good?",
+            "freelusi0n said \"We came here to eat a breakfast in the morning. The service is not professional and unfriendly. The coffee was disgusting, the eggs was overcooked, the bread was dry and all the meal was cold. Never go there. You\u0027ll have a better value in Mcdonald trust me.\"\nDoes this sound good?",
+            "psmietti said \"We went here for coffee and were really disappointed with the place. Unprofessional serving gives great minus. Other minus comes for low quality. Ice cream was eatable, but far from experience.\" \nDoes this sound good?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

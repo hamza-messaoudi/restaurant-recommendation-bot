@@ -1,0 +1,21 @@
+[
+  {
+    "value": "Restaurant",
+    "synonyms": [
+      "Restaurants",
+      "Pub"
+    ]
+  },
+  {
+    "value": "Bar",
+    "synonyms": [
+      "Bar"
+    ]
+  },
+  {
+    "value": "Shop",
+    "synonyms": [
+      "Shops"
+    ]
+  }
+]

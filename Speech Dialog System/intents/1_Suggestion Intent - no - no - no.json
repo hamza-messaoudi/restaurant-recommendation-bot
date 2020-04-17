@@ -1,0 +1,47 @@
+{
+  "id": "5f431529-70a2-4bb8-97eb-728245f7fdde",
+  "parentId": "b2ab649c-506f-48ea-9954-f37b28ceb026",
+  "rootParentId": "b1ef14ec-a086-481b-af35-dd83b20b0f2a",
+  "name": "1_Suggestion Intent - no - no - no",
+  "auto": true,
+  "contexts": [
+    "1_SuggestionIntent-no-no-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "1_SuggestionIntent.1_SuggestionIntent-no.1_SuggestionIntent-no-no.1_SuggestionIntent-no-no-no",
+      "affectedContexts": [
+        {
+          "name": "foodType",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Okay, this is too difficult for me. What do you want to eat?",
+            "Please give me a clue. What would you like to eat?",
+            "I have no idea what you want. Please tell me the cuisine you like most.",
+            "I\u0027m out of suggestions. Please make a decision."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

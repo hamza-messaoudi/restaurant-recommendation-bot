@@ -1,0 +1,43 @@
+{
+  "id": "567fddc0-c8a3-43d0-9e78-e03f552186f0",
+  "parentId": "37b4f81a-b597-4dc6-97cd-181adf37b60e",
+  "rootParentId": "37b4f81a-b597-4dc6-97cd-181adf37b60e",
+  "name": "2.2_Price - fallback",
+  "auto": false,
+  "contexts": [
+    "22_Price-followup",
+    "price"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "22_Price.22_Price-fallback",
+      "affectedContexts": [
+        {
+          "name": "price",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "I am sorry, I did not understand that. Which price range are you looking for?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
